@@ -13,8 +13,7 @@ def all
     "twitter" => "MarenMorris",
     "song" => "HERO",
     "album" => "4sSXylKcBB3p47VfrBJlfKh",
-    "bio" => "Maren Morris is a singer and songwriter whose music bridges the gap between hard country, classic rock, and hip-hop-influenced pop; she has enjoyed success as both a tunesmith and a performer. Morris was born in Dallas, Texas on April 10, 1990 and she grew up with a love of music, saying she was always willing to belt out a tune on the family's karaoke machine by age ten.",
-    "img" => "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Maren_Morris.jpg/1200px-Maren_Morris.jpg"
+    "bio" => "Maren Morris is a singer and songwriter whose music bridges the gap between hard country, classic rock, and hip-hop-influenced pop; she has enjoyed success as both a tunesmith and a performer. Morris was born in Dallas, Texas on April 10, 1990 and she grew up with a love of music, saying she was always willing to belt out a tune on the family's karaoke machine by age ten."
 
   },
 
